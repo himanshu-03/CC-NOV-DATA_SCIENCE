@@ -1,5 +1,5 @@
 # CC-NOV-DATA_SCIENCE
-# 📌 Task 1 - Customer Churn Prediction
+## 📌 Task 1 - Customer Churn Prediction
 
 The `Customer Churn table` contains information on all `7,043` customers from a `Telecommunications company` in California in Q2 2022
 
@@ -11,15 +11,28 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 
 <br>
 
-# 🔗 Links of Task 1
+## 📓 Overview
+
+| Machine Learning Models Applied            | Accuracy |
+| ----------------- | ------------------------------------------------------------------ |
+| Random Forest | 78.11% |
+| Logistic Regression | 78.28% |
+| Naive Bayes Gaussian | 36.77% |
+| Decision Tree | 77.29% |
+| XGB_Classifier | 80.86% |
+
+<br>
+
+## 🔗 Links of Task 1
 <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
+
 <br>
 
 --- 
 <br>
 
-# 📌 Task 2 - Covid Analysis
+## 📌 Task 2 - Covid Analysis
 
 COVID-19 cases at daily level is present in covid_19_india.csv file
 
@@ -29,7 +42,15 @@ To analyze the COVID-19 data in India and determine the cure, death and active c
 
 <br>
 
-# 🔗 Links of Task 2
+## 👉 Application
+
+The ability to predict and analyze COVID-19 data will result in better understanding of the trends in Covid cases of India and will be of great help to government for taking precautionary measures
+```
+  To control and manage the COVID-19 epidemic, and to effectively prevent and respond to future epidemics
+```
+<br>
+
+## 🔗 Links of Task 2
 
 <a href='https://colab.research.google.com/drive/1wuZ7DiID1BvyGJtuk1gBP1J5bafo5hLX?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 <a href='https://www.kaggle.com/code/hiimanshuagarwal/covid-analysis' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
